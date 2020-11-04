@@ -1,0 +1,18 @@
+{
+	"name": "spyryto/abstract-class-utils",
+	"description": "Traits and functions to help generalize abstract classes",
+	"authors": [
+        {
+            "name": "Daniele Zecchin",
+            "email": "danielezecchin@gmail.com",
+            "homepage": "https://spyryto.it/",
+            "role": "Developer"
+		}
+    ],
+    "require": {
+        "danielstjules/stringy": "^3.1"
+    },
+	"autoload": {
+        "psr-4": { "AbstractClassUtils\\": "" }
+    }
+}
